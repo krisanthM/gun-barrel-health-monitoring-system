@@ -45,7 +45,7 @@ The proposed system integrates:
 ## 🔧 Prototype
 A conceptual prototype demonstrating structural design and sensor placement strategy.
 
-![Prototype](hardware/image.png)
+![Prototype](hardware/Image.png)
 
 ---
 
