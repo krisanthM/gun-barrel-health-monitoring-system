@@ -57,7 +57,7 @@ A conceptual prototype demonstrating structural design and sensor placement stra
 ---
 
 ## 🎥 Simulation Video
-[*(Add your video link here if needed)*](https://drive.google.com/file/d/17xQZDyp13aPezmVO-wzTU5kOYyVXVn4S/view?usp=drive_link)
+[*Simulation Video Link*](https://drive.google.com/file/d/17xQZDyp13aPezmVO-wzTU5kOYyVXVn4S/view?usp=drive_link)
 
 ---
 
