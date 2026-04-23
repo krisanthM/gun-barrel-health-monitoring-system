@@ -38,7 +38,7 @@ The proposed system integrates:
 - Vibration analysis
 - Embedded processing (ESP32 concept)
 
-![Concept](concept/system_diagram.png)
+![Concept](concept/Prototype.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ A conceptual prototype demonstrating structural design and sensor placement stra
 ---
 
 ## 🎥 Simulation Video
-*(Add your video link here if needed)*
+[*(Add your video link here if needed)*](https://drive.google.com/file/d/17xQZDyp13aPezmVO-wzTU5kOYyVXVn4S/view?usp=drive_link)
 
 ---
 
