@@ -1,4 +1,4 @@
-# 🔧 Gun Barrel Health Monitoring & Life Prediction System
+# 🔧Physics‑Based Gun Barrel Wear Monitoring and Life PredictionSystem
 
 ## 📌 Overview
 This project presents a physics-based structural health monitoring system designed to analyze thermo-mechanical behavior and predict the service life of gun barrels under extreme operating conditions.
